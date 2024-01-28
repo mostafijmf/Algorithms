@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-vector<int> v[1000];
+vector<int> v[1000]; 
 bool vis[1000];
 void bfs(int src)
 {
