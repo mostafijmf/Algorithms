@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-const int N = 1e5 + 5;
+const int N = 1e4 + 5;
 bool vis[N];
 int parVis[N];
 vector<int> adj[N];
